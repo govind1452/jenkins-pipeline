@@ -1,0 +1,53 @@
+h1{
+    text-align: center;
+
+    color: blue;
+}
+table,th,td{
+    border: 1px solid blue;
+    text-align: center;
+    margin-top: 6%;
+    height: 5%;
+    margin-bottom: 1;
+    width: 16%;
+    margin-left: 42%;
+}
+
+body{
+    background-color:burlywood;
+    background-image: url("cal.jpg");
+    background-repeat: no-repeat;
+    background-size: 50% 50%;
+    background-position-x: 50%;
+    background-position-y: 20%;
+}
+
+.num{
+    width: 5%;
+    height: 5%;
+    margin-top: .5%;
+    margin-left: 42%;
+    color: green;
+
+}
+.num1{
+    width: 5%;
+    height: 5%;
+    margin-top: .5%;
+    margin-left:.5%;
+    color: green;
+}
+.num2{
+    margin-left: 42%;
+    height: 5%;
+    margin-top: .5%;
+    width: 7.5%;
+    color: green;
+}
+.num3{
+    margin-left: 1%;
+    height: 5%;
+    margin-top: .5%;
+    width: 7.5%;
+    color: green;
+}
